@@ -1,0 +1,22 @@
+.container {
+    background: #fff;
+    color: #000;
+    text-align: justify;
+}
+
+.navigation,
+li {
+    display: inline;
+    float: right;
+    padding: 30px
+}
+
+.row {
+    display: inline-block;
+    width: 100%;
+}
+
+.grid,
+li {
+    display: block
+}
