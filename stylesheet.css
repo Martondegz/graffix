@@ -29,7 +29,7 @@ li {
 .establish {
     border-radius: 5px;
     border-width: thick;
-    background-color: darkslategrey;
+    background-color: black;
     text-align: center;
     font-size: 20px
 }
@@ -64,4 +64,12 @@ h2 {
 
 .art {
     display: inline-block
+}
+
+.price {
+    color: #fff
+}
+
+p {
+    color: #fff;
 }
